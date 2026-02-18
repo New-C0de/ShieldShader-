@@ -29,6 +29,9 @@
         },
         {
             "m_Id": "ae347430e2bf4639bb5670ce9e0e6ae0"
+        },
+        {
+            "m_Id": "8a0932d5a15f4f4aa121b2dae2e5fba2"
         }
     ],
     "m_Keywords": [],
@@ -72,8 +75,8 @@
     "m_Edges": [],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": 1861.9998779296875,
+            "y": 729.0
         },
         "m_Blocks": [
             {
@@ -89,8 +92,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": 1861.9998779296875,
+            "y": 928.9999389648438
         },
         "m_Blocks": [
             {
@@ -164,7 +167,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 2.0,
-        "y": 8.0
+        "y": 10.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -394,10 +397,10 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "PatternTex",
+    "m_Name": "HexTex",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "PatternTex",
-    "m_DefaultReferenceName": "_PatternTex",
+    "m_RefNameGeneratedByDisplayName": "HexTex",
+    "m_DefaultReferenceName": "_HexTex",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -410,7 +413,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"76c057b6c76c70e44b8c938f8b98fba5\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -542,10 +545,10 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "Color",
+    "m_Name": "ShieldColor",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Color",
-    "m_DefaultReferenceName": "_Color",
+    "m_RefNameGeneratedByDisplayName": "ShieldColor",
+    "m_DefaultReferenceName": "_ShieldColor",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -558,9 +561,9 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 0.059006791561841968,
+        "g": 0.8119105100631714,
+        "b": 0.9622641801834106,
         "a": 1.0
     },
     "isMainColor": false,
@@ -596,6 +599,9 @@
         },
         {
             "m_Id": "2d73b51c430348ef898962c2949ccdfc"
+        },
+        {
+            "m_Id": "8a0932d5a15f4f4aa121b2dae2e5fba2"
         },
         {
             "m_Id": "ae347430e2bf4639bb5670ce9e0e6ae0"
@@ -635,6 +641,50 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "SurfaceDescription.Emission"
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "8a0932d5a15f4f4aa121b2dae2e5fba2",
+    "m_Guid": {
+        "m_GuidSerialized": "8ebbf8b9-f78c-410b-b866-2c4c7689b9ea"
+    },
+    "promotedFromAssetID": "",
+    "promotedFromCategoryName": "",
+    "promotedOrdering": -1,
+    "m_Name": "HexTiling",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "HexTiling",
+    "m_DefaultReferenceName": "_HexTiling",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_PerRendererData": false,
+    "m_customAttributes": [],
+    "m_Value": 1.0,
+    "m_FloatType": 1,
+    "m_LiteralFloatMode": false,
+    "m_RangeValues": {
+        "x": 1.0,
+        "y": 20.0
+    },
+    "m_SliderType": 0,
+    "m_SliderPower": 3.0,
+    "m_EnumType": 0,
+    "m_CSharpEnumString": "",
+    "m_EnumNames": [
+        "Default"
+    ],
+    "m_EnumValues": [
+        0
+    ]
 }
 
 {
@@ -846,8 +896,8 @@
     "m_FloatType": 1,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
-        "x": 1.0,
-        "y": 5.0
+        "x": 0.0,
+        "y": 8.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -871,10 +921,10 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "PatternStrength",
+    "m_Name": "HexStrength",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "PatternStrength",
-    "m_DefaultReferenceName": "_PatternStrength",
+    "m_RefNameGeneratedByDisplayName": "HexStrength",
+    "m_DefaultReferenceName": "_HexStrength",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -887,11 +937,11 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": 0.0,
-    "m_FloatType": 0,
+    "m_FloatType": 1,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 1.0
+        "y": 3.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -972,7 +1022,7 @@
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
-    "m_Value": 0.10000000149011612,
+    "m_Value": 0.5,
     "m_FloatType": 1,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
@@ -1016,7 +1066,7 @@
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
-    "m_Value": 0.0,
+    "m_Value": 0.20000000298023225,
     "m_FloatType": 1,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
@@ -1064,7 +1114,7 @@
     "m_FloatType": 1,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
-        "x": 0.10000000149011612,
+        "x": 0.0,
         "y": 1.0
     },
     "m_SliderType": 0,
