@@ -112,10 +112,10 @@ Material:
     - _HexStrength: 3
     - _HexTiling: 1
     - _Metallic: 0
-    - _NoiseScale: 1
+    - _NoiseScale: 1.9
     - _NoiseSpeed: 1.7
     - _OcclusionStrength: 1
-    - _Opacity: 0.2
+    - _Opacity: 0.453
     - _Parallax: 0.005
     - _PulseSpeed: 1.2
     - _PulseStrength: 2

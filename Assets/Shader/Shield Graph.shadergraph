@@ -3306,7 +3306,7 @@
     "m_ObjectId": "3b5e1b0aeb3c40e5b11f5bf7869a4a26",
     "m_Title": "HexUV",
     "m_Position": {
-        "x": 1786.999755859375,
+        "x": 1787.0,
         "y": 1632.0
     }
 }
@@ -3573,7 +3573,7 @@
     "m_ObjectId": "45411652a80d40ee952136dda3dfd1ea",
     "m_Title": "HexGlow",
     "m_Position": {
-        "x": 3123.999755859375,
+        "x": 3124.0,
         "y": 1097.0
     }
 }
@@ -4994,7 +4994,7 @@
     "m_ObjectId": "7288f8e43a4942b98a83266accd46290",
     "m_Title": "ScrollOffset",
     "m_Position": {
-        "x": 1459.9998779296875,
+        "x": 1460.0,
         "y": 1855.0
     }
 }
@@ -5458,7 +5458,7 @@
     "m_ObjectId": "7cc10220dbff498e833b865255abb128",
     "m_Title": "UV_tiled",
     "m_Position": {
-        "x": 1459.9998779296875,
+        "x": 1460.0,
         "y": 1455.0
     }
 }
@@ -5469,8 +5469,8 @@
     "m_ObjectId": "7ce628ac5c9c488b9f9d49dd87716aff",
     "m_Title": "Pulse",
     "m_Position": {
-        "x": 2850.999755859375,
-        "y": -289.0000305175781
+        "x": 2851.0,
+        "y": -289.0
     }
 }
 
@@ -5824,7 +5824,7 @@
     "m_ObjectId": "8bc3ea1ee4d04118bcf3faa6b650ffa4",
     "m_Title": "NoiseSigned",
     "m_Position": {
-        "x": 2426.999755859375,
+        "x": 2427.0,
         "y": 374.0
     }
 }
@@ -6294,7 +6294,7 @@
     "m_Title": "Noise01",
     "m_Position": {
         "x": 1103.0,
-        "y": -69.99996948242188
+        "y": -70.0
     }
 }
 
@@ -7610,7 +7610,7 @@
     "m_Title": "HexDistorted",
     "m_Position": {
         "x": 2471.0,
-        "y": 896.9999389648438
+        "y": 897.0
     }
 }
 
