@@ -102,7 +102,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DistortionStrength: 0.004
+    - _DistortionStrength: 0.025
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -112,18 +112,18 @@ Material:
     - _HexStrength: 3
     - _HexTiling: 1
     - _Metallic: 0
-    - _NoiseScale: 1.9
+    - _NoiseScale: 20
     - _NoiseSpeed: 1.7
     - _OcclusionStrength: 1
     - _Opacity: 0.453
     - _Parallax: 0.005
-    - _PulseSpeed: 1.2
+    - _PulseSpeed: 2.27
     - _PulseStrength: 2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _RimIntensity: 4.83
-    - _RimPower: 7.1
+    - _RimIntensity: 1.59
+    - _RimPower: 3.61
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
