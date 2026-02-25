@@ -13,7 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -49,7 +49,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HexTex:
-        m_Texture: {fileID: 2800000, guid: 76c057b6c76c70e44b8c938f8b98fba5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 15e030e2c9555f54aab7e470631c4830, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -66,6 +66,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1e83104a63d44529a73f131f37c7b0dc_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 76c057b6c76c70e44b8c938f8b98fba5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -98,26 +102,28 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DistortionStrength: 0.2
+    - _DistortionStrength: 0.025
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _HexStrength: 0
+    - _HexStrength: 3
     - _HexTiling: 1
     - _Metallic: 0
-    - _NoiseScale: 1
-    - _NoiseSpeed: 0.5
+    - _NoiseScale: 20
+    - _NoiseSpeed: 1.7
     - _OcclusionStrength: 1
-    - _Opacity: 0.1
+    - _Opacity: 0.453
     - _Parallax: 0.005
+    - _PulseSpeed: 2.27
+    - _PulseStrength: 2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _RimIntensity: 1
-    - _RimPower: 2
+    - _RimIntensity: 1.59
+    - _RimPower: 3.61
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -131,7 +137,8 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ShieldColor: {r: 0.059006765, g: 0.8119105, b: 0.9622641, a: 1}
+    - _HexScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _ShieldColor: {r: 0.09438412, g: 0.8163406, b: 0.9528302, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
