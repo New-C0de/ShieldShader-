@@ -2789,7 +2789,7 @@
     "m_Title": "Pulse",
     "m_Position": {
         "x": 2709.0,
-        "y": 1866.0001220703125
+        "y": 1866.0
     }
 }
 
@@ -3096,7 +3096,7 @@
     "m_Title": "HexUV",
     "m_Position": {
         "x": 1787.0,
-        "y": 1632.0001220703125
+        "y": 1632.0
     }
 }
 
@@ -3362,7 +3362,7 @@
     "m_ObjectId": "45411652a80d40ee952136dda3dfd1ea",
     "m_Title": "HexGlow",
     "m_Position": {
-        "x": 3124.000244140625,
+        "x": 3124.0,
         "y": 1097.0
     }
 }
@@ -5315,7 +5315,7 @@
     "m_Title": "NoiseSigned",
     "m_Position": {
         "x": 2427.0,
-        "y": 374.0000305175781
+        "y": 374.0
     }
 }
 
@@ -5735,7 +5735,7 @@
     "m_ObjectId": "982c7d8ffb924d669151ae3b7cecbeed",
     "m_Title": "Noise01",
     "m_Position": {
-        "x": 1103.0001220703125,
+        "x": 1103.0,
         "y": -70.0
     }
 }
@@ -7434,7 +7434,7 @@
     "m_ObjectId": "ddb7e138e07b43a3950efab43980b41a",
     "m_Title": "DistortOffset(Vector2)",
     "m_Position": {
-        "x": 3206.000244140625,
+        "x": 3206.0,
         "y": 373.0
     }
 }
